@@ -1,0 +1,20 @@
+
+var nm_mt_rand = '682758265';
+var nm_tag_uri = 'https://';
+var nm_query_str = 'aid=3808&siclientid=&ref=http%3A%2F%2Fwww.meetup.com%2Fdatacph%2Fevents%2F220295899%2F%3Fa%3Duc1_vm%26read%3D1%26_af_eid%3D220295899%26_af%3Devent';
+
+
+if (document.getElementById && document.createElement && document.body) {
+  var i=document.createElement('IFRAME');
+  var axel = Math.random() + '';        
+  var a = axel * 10000000000000; 
+  i.src='//4727608.fls.doubleclick.net/activityi;src=4727608;type=invmedia;cat=7ltetgda;ord=' + a + '?';
+  i.width=1;
+  i.height=1;
+  i.frameBorder=0;
+  document.body.appendChild(i);
+}
+
+
+
+ 
